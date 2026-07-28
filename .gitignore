@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# Build files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+
+# Test files
+input.txt
+output.txt
