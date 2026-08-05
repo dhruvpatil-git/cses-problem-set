@@ -13,7 +13,7 @@ void solve() {
 
     for(ll  i = 0 ; i < n ;i ++) cin >> a[i];
 
-    sort(a.begin(), a.end());
+    sort(all(a));
 
     ll i = 0, j = n - 1;
     ll cnt = 0;
